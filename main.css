@@ -1,6 +1,7 @@
 
 .header { text-align: center;
 	display: inline;
+	clear: none;
 	font-size: 32px;
   font-family: Palatino, 'Palatino Linotype', Serif;
 }
