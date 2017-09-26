@@ -1,7 +1,8 @@
 
 .header { text-align: center;
-	display: inline-block;
 	font-size: 32px;
   font-family: Palatino, 'Palatino Linotype', Serif;
 }
 
+#teach {color: red;}
+#me {color:blue;}
