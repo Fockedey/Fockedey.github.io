@@ -1,5 +1,11 @@
 h1 {
 	font-size: 32px;
   font-family: Palatino, 'Palatino Linotype', Serif;
-  color: rgb(46,105,163);
 }
+
+.overskrift { text-align: center;
+}
+
+#teach { color: #4248f4;}
+
+#me {color: #116806;}
