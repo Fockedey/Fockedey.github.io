@@ -1,11 +1,10 @@
-h1 {
+
+.header { text-align: center;
+	display: inline-block;
 	font-size: 32px;
   font-family: Palatino, 'Palatino Linotype', Serif;
 }
 
-.overskrift { text-align: center;
-}
+#teach { color: blue;}
 
-#teach { color: #4248f4;}
-
-#me {color: #116806;}
+#me {color: red;}
